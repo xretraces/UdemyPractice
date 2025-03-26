@@ -53,7 +53,7 @@ public class Main {
                 }
                 currentTurn++;
                 if (currentTurn > 9){
-                    System.out.println("Draw! There is no winner :(");
+                    System.out.println("Draw! There is no winner.");
                     break;
                 }
             }
